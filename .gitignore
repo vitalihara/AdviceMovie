@@ -1,0 +1,7 @@
+# Project exclude paths
+/Account/target/
+/Library/target/
+/out/
+.idea
+AdviceMovie.iml
+*iml
