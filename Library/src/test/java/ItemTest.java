@@ -9,9 +9,9 @@ class ItemTest {
         //given
 
         //when
-        Item item = new Item(1L, "Pirates of the Caribbean");
+        Item item = new Item(1L, "Pirates of the Caribbean 2");
 
         //then
-        assertEquals(item.getName(), "Pirates of the Caribbean");
+        assertEquals(item.getName(), "Pirates of the Caribbean 2");
     }
 }
